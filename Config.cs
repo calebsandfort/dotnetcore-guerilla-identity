@@ -97,7 +97,7 @@ namespace GuerillaIdentity
 
                     Claims = new List<Claim>
                     {
-                        new Claim("name", "Caleb"),
+                        new Claim("name", "Caleb Sandfort"),
                         new Claim("website", "https://calebsandfort.com")
                     }
                 }
